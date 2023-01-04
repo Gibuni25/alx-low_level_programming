@@ -6,7 +6,9 @@
  *  @c: the character to fill the memory area with
  *  @n: the number of bytes to be filled
  *  description _memset: over there
+ *
  *  Return: a pointer to the filled memory area @s.
+ *
  */
 void *_memset(void *s, int c, size_t n)
 {
